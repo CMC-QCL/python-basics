@@ -6,6 +6,15 @@ Python is one of the most popular programming languages for data scientists, web
 
 This is a workshop designed for beginners, so no prior knowledge of Python or any programming language is needed.
 
+### Learning Objectives
+By the end of this workshop you will be able to:
+
+* Create and use functions
+* Create lists and dictionaries and access its elements
+* Read error messages
+* Use for loops
+* Use conditional statements (if, elif and else)
+
 ### Prerequisites
 This is a Level 1 Workshop, so no programming knowledge is assumed.
 
