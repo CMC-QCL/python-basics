@@ -19,4 +19,4 @@ By the end of this workshop you will be able to:
 This is a Level 1 Workshop, so no programming knowledge is assumed.
 
 ### Last updated: 
-June 27, 2023
+February 22, 2024
