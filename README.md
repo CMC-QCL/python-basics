@@ -22,7 +22,7 @@ This is a Level 1 Workshop, so no programming knowledge is assumed.
 February 22, 2024
 
 ## Workshop Attendees
-Thank you for registering for the Programming Basics with Python Part 1 (Level 1) Workshop.  
+Thank you for registering for this Workshop.  
 If you need to cancel, please do so earlier rather than later to give others a chance to register.
 
 ## Ticket Cancellation and No-Show Policy:
