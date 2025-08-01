@@ -20,3 +20,10 @@ This is a Level 1 Workshop, so no programming knowledge is assumed.
 
 ### Last updated: 
 February 22, 2024
+
+### Workshop Attendees
+Thank you for registering for the Programming Basics with Python Part 1 (Level 1) Workshop.
+If you need to cancel, please do so earlier rather than later to give others a chance to register.
+
+## Ticket Cancellation and No-Show Policy:
+If you need to cancel your reservation, please contact us by email at qcl@cmc.edu at least 24 hours prior to the event. A prompt cancellation will help us contact the next person on the waitlist. In case of 2 or more no-shows (without cancellation), you will lose your privilege to take our free workshops during the semester.
